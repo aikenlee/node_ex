@@ -1,0 +1,22 @@
+{
+  "name": "node_ex",
+  "version": "1.0.0",
+  "description": "express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aikenlee/node_ex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aikenlee/node_ex/issues"
+  },
+  "homepage": "https://github.com/aikenlee/node_ex#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
